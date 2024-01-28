@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Stéffane 😁
+## Seja muito bem-vindo(a) ao perfil da Stéffane 😁
 
  <div>
    <a href="https://github.com/steffaneleal">
