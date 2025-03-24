@@ -1,15 +1,38 @@
 ## Olá, meu nome é Stéffane!
 
 - 👩🏽‍💻 Estagiária Full Stack PHP na UTFPR
+- 🎓 Estudando Engenharia de Computação da UTFPR
 - 💻 Aprimorando habilidades em Desenvolvimento Web
 
 ### ⚙️ GitHub Analytics
- <div>
-   <a href="https://github.com/steffaneleal">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=steffaneleal&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steffaneleal&layout=compact&langs_count=6&theme=transparent"/>
-</div>
-    
+<table style="display: flex; align-items: center; justify-content: center;">
+  <tr>
+    <td>
+      <img style="align-items: center"
+        align="left" 
+        src="https://github-readme-stats.vercel.app/api?username=steffaneleal&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=steffaneleal&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=steffaneleal&theme=transparent&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+## Minhas Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
