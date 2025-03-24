@@ -1,7 +1,7 @@
 ## Oiii! Eu sou a Stéffane 😁
 
 - 👩🏽‍💻 Sou estagiária dev Full Stack PHP na UTFPR 
-- Estudando Desenvolvimento Web
+- 💻 Estudando Desenvolvimento Web
 
  <div>
    <a href="https://github.com/steffaneleal">
