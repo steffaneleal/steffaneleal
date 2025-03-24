@@ -1,8 +1,9 @@
-## Oiii! Eu sou a Stéffane 😁
+## Olá, meu nome é Stéffane!
 
-- 👩🏽‍💻 Sou estagiária dev Full Stack PHP na UTFPR 
-- 💻 Estudando Desenvolvimento Web
+- 👩🏽‍💻 Estagiária Full Stack PHP na UTFPR
+- 💻 Aprimorando habilidades em Desenvolvimento Web
 
+### ⚙️ GitHub Analytics
  <div>
    <a href="https://github.com/steffaneleal">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=steffaneleal&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
@@ -25,7 +26,7 @@
  
 <br>
 
-### Aqui estão as minhas redes sociais:
+### 📍 Onde me encontrar
  
 <div> 
   <a href="https://instagram.com/steffane_leal" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
