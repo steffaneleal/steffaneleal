@@ -5,7 +5,7 @@
 - 💻 Aprimorando habilidades em Desenvolvimento Web
 
 ## ⚙️ GitHub Analytics
-<table style="display: flex; align-items: center; justify-content: space-around;">
+<table style="display: flex; align-items: center; justify-content: space-around; border: 0;">
   <tr>
     <td>
       <img style="align-items: center"
