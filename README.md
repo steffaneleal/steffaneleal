@@ -5,27 +5,19 @@
 - 💻 Aprimorando habilidades em Desenvolvimento Web
 
 ## ⚙️ GitHub Analytics
-<table style="display: flex; align-items: center; justify-content: center;">
+<table style="display: flex; align-items: center; justify-content: space-around;">
   <tr>
     <td>
       <img style="align-items: center"
-        align="left" 
+        align="left" height="180em"
         src="https://github-readme-stats.vercel.app/api?username=steffaneleal&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
-        align="left"
+        align="left" height="180em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=steffaneleal&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=steffaneleal&theme=transparent&hide_border=false"
         alt="Github Stats"
       />
     </td>
@@ -39,10 +31,10 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="POSTGRES" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 
 </div>
  
