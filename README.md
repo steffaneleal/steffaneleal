@@ -6,8 +6,8 @@
 
 ## ⚙️ GitHub Analytics
 <table style="display: flex; align-items: center; justify-content: space-around; border: 0;">
-  <tr>
-    <td>
+  <tr style="border: 0;">
+    <td style="border: 0;">
       <img style="align-items: center"
         align="left" height="180em"
         src="https://github-readme-stats.vercel.app/api?username=steffaneleal&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"
