@@ -5,24 +5,17 @@
 - 💻 Aprimorando habilidades em Desenvolvimento Web
 
 ## ⚙️ GitHub Analytics
-<table style="display: flex; align-items: center; justify-content: space-around; border: 0;">
-  <tr style="border: 0;">
-    <td style="border: 0;">
-      <img style="align-items: center"
-        align="left" height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=steffaneleal&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left" height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=steffaneleal&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-around; align-items: center; gap: 20px;">
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=steffaneleal&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"
+    alt="Github Stats"
+  />
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=steffaneleal&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    alt="Github Stats"
+  />
+</div>
+
 
 ## 🖥️ Minhas Skills
 ### Aplicações e dados
