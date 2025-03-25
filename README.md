@@ -1,7 +1,7 @@
 # Olá, meu nome é Stéffane!
 
 - 👩🏽‍💻 Estagiária Full Stack PHP na UTFPR
-- 🎓 Estudando Engenharia de Computação da UTFPR
+- 🎓 Estudando Engenharia de Computação na UTFPR
 - 💻 Aprimorando habilidades em Desenvolvimento Web
 
 ## ⚙️ GitHub Analytics
