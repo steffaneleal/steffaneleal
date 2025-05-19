@@ -34,16 +34,16 @@
 
 <br>
 
-# ⚙️ GitHub Stats
-<div style="display: flex; justify-content: space-around; align-items: center; gap: 20px;">
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=steffaneleal&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"
-    alt="Github Stats"
-  />
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=steffaneleal&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-    alt="Github Stats"
-  />
+# &#x1f4c8; GitHub Stats
+
+<div align="center" style="display:flex;flex-direction:column">
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steffaneleal&theme=transparent)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=steffaneleal&theme=transparent)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=steffaneleal&theme=transparent)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=steffaneleal&theme=transparent)
+
+
 </div>
  
 <br>
