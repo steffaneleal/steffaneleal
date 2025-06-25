@@ -25,7 +25,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-fc6d26?style=for-the-badge&logo=gitlab&logoColor=FFF)
 ![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![DBEAVER](https://img.shields.io/badge/-DBeaver-333333?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Xampp](https://img.shields.io/badge/-Xampp-fc6d26?style=for-the-badge&logo=xampp&&logoColor=FFF)
 ![Windows 11](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
