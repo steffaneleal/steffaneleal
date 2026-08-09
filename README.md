@@ -1,6 +1,6 @@
 # Olá, meu nome é Stéffane!
 
-👩🏽‍💻 Estagiária Full Stack PHP na UTFPR
+👩🏽‍💻 Estagiária de Customização de Sofware na ForLogic
 
 🎓 Graduanda em Engenharia de Computação na UTFPR
 
